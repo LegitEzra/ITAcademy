@@ -1,4 +1,4 @@
-Set Up:
+# Set Up:
 Run Setup.py
-To Use:
+# To Use:
 run run.sh
