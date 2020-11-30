@@ -1,6 +1,6 @@
 import os
-os.system("pip install ntplib")
-os.system("pip install termcolor")
+os.system("pip3 install ntplib")
+os.system("pip3 install termcolor")
 from termcolor import colored, cprint
 cprint("\nSuccessfully Installed Required Libraries", "green")
 question = input(colored("Would you like to update the date and time now? ", "red"))
