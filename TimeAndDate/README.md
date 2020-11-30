@@ -1,4 +1,4 @@
 # Set Up:
-Run Setup.py
+Run `python3 Setup.py`
 # To Use:
-run run.sh
+Double click run.sh and click execute in terminal
