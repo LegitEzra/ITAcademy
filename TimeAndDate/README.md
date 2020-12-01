@@ -1,7 +1,7 @@
 # Set Up:
-Run `git clone https://github.com/LegitEzra/ITAcademy ~/Desktop`
+Run `git clone https://github.com/LegitEzra/ITAcademy ~/Desktop/ITAcademy`
 
-Run `python3 ~/Desktop/TimeAndDate/Setup.py`
+Run `python3 ~/Desktop/ITAcademy/TimeAndDate/Setup.py`
 # To Use:
 Right click run.sh > Properties > Permissions > Execute > Anyone
 
