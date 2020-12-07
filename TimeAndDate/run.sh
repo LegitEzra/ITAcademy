@@ -1,2 +1,2 @@
-python3 ./TimeDate.py
+python3 ~/ITAcademy/TimeAndDate/TimeDate.py
 sleep 20
