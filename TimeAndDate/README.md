@@ -7,7 +7,7 @@ Right click run.sh > Properties > Permissions > Execute > Anyone
 
 After changing execute to anyone click okay then double click run.sh and click execute in terminal
 
-If running in terminal do `cd ~/ITAcademy/TimeAndDate && sudo chmod +x run.sh`
+If running in terminal do `cd ~/ITAcademy/TimeAndDate && sudo chmod +x run.sh` then run `./run.sh`
 
 You can also do `python3 ~/ITAcademy/TimeAndDate/TimeDate.py`
 # Updates
